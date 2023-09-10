@@ -1,0 +1,20 @@
+/*================================================================================
+
+NOTE:
+------
+PLACE HERE YOUR OWN SCSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+@font-face {
+  font-family: 'HelveticaMedium';
+  src: url("./../fonts/HelveticaMedium/HelveticaNeu_Medium.eot");
+  src: url("./../fonts/HelveticaMedium/HelveticaNeu_Medium.eot");
+  src: url("./../fonts/HelveticaMedium/HelveticaNeu_Medium.eot?#iefix") format("embedded-opentype"), url("./../fonts/HelveticaMedium/HelveticaNeu_Medium.woff2") format("woff2"), url("./../fonts/HelveticaMedium/HelveticaNeu_Medium.woff") format("woff"), url("./../fonts/HelveticaMedium/HelveticaNeu_Medium.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+body {
+  font-family: "HelveticaMedium", Serif, serif;
+}
+/*# sourceMappingURL=style.css.map */

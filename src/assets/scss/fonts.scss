@@ -1,0 +1,17 @@
+$system-default-font-family: -apple-system, 'BlinkMacSystemFont', 'Segoe UI',
+'Helvetica', 'Arial', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
+'Segoe UI Symbol';
+
+@font-face {
+  font-family: 'HelveticaMedium';
+  src: url('./../fonts/HelveticaMedium/HelveticaNeu_Medium.eot');
+  src: url('./../fonts/HelveticaMedium/HelveticaNeu_Medium.eot');
+  src: url('./../fonts/HelveticaMedium/HelveticaNeu_Medium.eot?#iefix') format('embedded-opentype'),
+  url('./../fonts/HelveticaMedium/HelveticaNeu_Medium.woff2') format('woff2'),
+  url('./../fonts/HelveticaMedium/HelveticaNeu_Medium.woff') format('woff'),
+  url('./../fonts/HelveticaMedium/HelveticaNeu_Medium.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
